@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(0, 0, 22);
+}
+
+.container {
+    font-family: 'inter', sans-serif;
+    background-color: rgb(17, 5, 44);
+    display: flex;
+    border-radius: 20px;
+    /* max-width: 70%; */
+    margin: auto;
+    margin-top: 100px;
+}
+.texto {
+    margin: 3%;
+    padding: 4%;
+    color: white;
+}
+h1 {
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    font-size: x-large;
+}
+span {
+    color: rgb(184, 107, 255);
+}
+h2 {
+    font-weight: 400;
+    /* margin: 5%; */
+    opacity: 0.9;
+    margin-top: inherit;
+    display: flex;
+    line-height: 2;
+}
+ul {    
+    /* font-weight: 400; */
+    font-size: small;
+    margin-top: 15%;
+
+}
+ li, .numeros1, .numeros2, .numeros3 {
+    font-weight: bold;
+}
+
+ img {
+    max-width: 35vmax;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 7px;
+}
+
+
+
+
+
